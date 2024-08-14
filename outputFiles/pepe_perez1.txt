@@ -1,0 +1,4 @@
+Number of ballots: 1
+Number of blank ballots: 0
+Number of invalid ballots: 0
+Winner: Pepe Perez wins with 1 #1's
